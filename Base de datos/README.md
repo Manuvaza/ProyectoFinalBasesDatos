@@ -93,5 +93,9 @@ letter_values = {
     'Q': 10, 'R': 1, 'S': 1, 'T': 1, 'U': 1, 'V': 4, 'W': 4, 'X': 8, 
     'Y': 4, 'Z': 10
 }
+
+
+![image](https://github.com/user-attachments/assets/dabed2d4-2b58-429b-b315-ff0d26eb502f)
+
 MIT -  LICENSE 
 Este `README.md` incluye todos los detalles necesarios sobre cómo funciona el código y cómo se usa. Además, cubre los aspectos de la instalación, el uso y proporciona una pequeña referencia sobre las funciones y la licencia. Puedes pegar este contenido directamente en tu archivo `README.md` en GitHub.
