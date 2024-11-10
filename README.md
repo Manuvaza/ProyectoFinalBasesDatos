@@ -33,6 +33,10 @@ AlphaLearn
 4. El juego asignará una categoría de palabras (por ejemplo, "animales").
 5. En cada turno, ingresa una palabra válida en la categoría, así como su posición y dirección en el tablero.
 6. La partida finalizará después de un número determinado de turnos, y se anunciará el jugador con el puntaje más alto.
+![image](https://github.com/user-attachments/assets/1180e3a3-91ed-4b2b-9af7-00d0396d1411)+
+
+![image](https://github.com/user-attachments/assets/eeaca8af-9dd2-4b71-a54e-233309d4dc14)
+
 
 ## Dependencias
 
